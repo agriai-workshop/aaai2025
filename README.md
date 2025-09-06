@@ -1,2 +1,5 @@
 
-## BenchSys 2024 website
+## AgriAI 2025 website
+
+First International Workshop on AI in Agriculture (AgriAI)
+
